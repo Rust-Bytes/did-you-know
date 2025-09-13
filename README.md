@@ -54,3 +54,6 @@ Most Loved Language Champion
 Rust 1.0 Landed in 2015
 > Rust officially hit [stable 1.0](https://blog.rust-lang.org/2015/05/15/Rust-1.0/) in May 15, 2015, marking the start of its journey as a production-ready language.
 
+The Rust Foundation
+> In 2021, the Rust Foundation was established to take over the stewardship of the language, ensuring its continued development and community support.
+
