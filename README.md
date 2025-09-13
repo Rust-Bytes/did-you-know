@@ -43,7 +43,7 @@ Crab Community
 > Rust users call themselves "Rustaceans" (a pun on crustaceans), and their mascot is Ferris, an orange crab who's starred in official docs and error messages since the early days.
 
 Energy Surprise 
-> A 2021 [study](https://hackaday.com/2021/11/18/c-is-the-greenest-programming-language/?utm_source=rust_bytes) found Rust code uses just 3% more energy than C but 34% less than C++, making it a sneaky efficient choice for green computing.
+> A 2017 [study](https://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf?utm_source=rust_bytes) found Rust code uses just 3% more energy than C but 34% less than C++, making it a sneaky efficient choice for green computing.
 
 Abandoned Features
 > Rust once experimented with an obj keyword for object-oriented programming and a typestate system to track variable states, both of which were scrapped between 2012 and 2015 to streamline the language.
