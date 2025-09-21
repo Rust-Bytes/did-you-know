@@ -28,7 +28,7 @@ Nerd Cave Development
 > Mozilla's early Rust team worked in a conference room nicknamed "the nerd cave," complete with a sign on the door, starting from a small group in 2009.
 
 Forgotten Features
-> Rust once had an explicit obj keyword for object-oriented programming and a typestates system to track variable states—both were removed during simplification efforts between 2012 and 2015.
+> Rust once had an explicit obj keyword for object-oriented programming and a typestates system to track variable states both were removed during simplification efforts between 2012 and 2015.
 
 Edition System
 > To handle evolution gracefully, Rust releases "editions" every 2–3 years with limited breaking changes (e.g., making await a keyword), and crates from different editions interoperate seamlessly via automated tools.
